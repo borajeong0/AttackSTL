@@ -40,4 +40,4 @@ Major improvements in biometric authentication have been made in recent years du
 
 [1] Pinto, J. R., Correia, M. V., & Cardoso, J. S. (2020). Secure triplet loss: Achieving cancelability and non-linkability in end-to-end deep biometrics. IEEE Transactions on Biometrics, Behavior, and Identity Science, 3(2), 180-189.
 
-[2] B. Jeong, S. Kim, S. Paik and J. H. Seo, "Attack on Secure Triplet Loss," in IEEE Access, 2022, doi: 10.1109/ACCESS.2022.3225430.
+[2] B. Jeong, S. Kim, S. Paik and J. H. Seo, "Analysis on Secure Triplet Loss," in IEEE Access, 2022, doi: 10.1109/ACCESS.2022.3225430.
